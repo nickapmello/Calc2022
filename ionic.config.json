@@ -1,0 +1,7 @@
+{
+  "name": "calcCC2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
